@@ -45,5 +45,3 @@ DB_PASSWORD=your_database_password</code></pre>
             <pre><code>php artisan serve</code></pre>
         </li>
     </ol>
-
-    <p>Now you can access the application in your browser at <a href="http://127.0.0.1:8000" target="_blank">http://127.0.0.1:8000</a>.</p>
