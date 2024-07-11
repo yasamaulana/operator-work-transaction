@@ -1,15 +1,17 @@
  <h1>Operator Work Transaction</h1>
     <p>This project is a web application for managing and displaying operator work transactions. It includes features such as filtering and paginating transactions.</p>
     
-    <h2>Installation</h2>
-    <p>Follow these steps to set up the project:</p>
+<h2>Installation</h2>
+<p>Follow these steps to set up the project:</p>
 
-    <h3>Steps</h3>
-    <ol>
-        <li>
-            <strong>Clone the Repository</strong>
-            <pre><code>git clone https://github.com/yourusername/operator-work-transaction.git
-cd operator-work-transaction</code></pre>
+<h3>Steps</h3>
+<ol>
+<li>
+<strong>Clone the Repository</strong>
+            <pre>
+            <code>git clone https://github.com/yourusername/operator-work-transaction.git
+            cd operator-work-transaction</code>
+</pre>
         </li>
         <li>
             <strong>Install PHP Dependencies</strong>
